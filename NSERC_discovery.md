@@ -78,14 +78,14 @@ May bring up the predation study here (or below in additional information on con
 
 Provide explanations as appropriate concerning contributions listed on NSERC CCV. This can include.
 - The nature of collaborations with other researchers.
--- The rationale for author order in publications.
--- The inclusion of students and post-docs in the list of authors.
--- My role in joint publications
+  - The rationale for author order in publications.
+  - The inclusion of students and post-docs in the list of authors.
+  - My role in joint publications
 - The reason for selecting certain venues (journals or conferences) for dissemeninating research.
 
 This may be a good place to bring up my involvment with dissemination of code and data. Depending on how I organize it, it can be in the first section as well.
 
-I can discuss pre-print?
+Can I discuss pre-prints? If relevant and help the narrative.
 
 # Research Proposal (5 pages including figures)
 
@@ -121,32 +121,32 @@ Mention in the 5 page research document where "related funding" (my NSF and NIH 
 ## Assessment of the merits of the proposal.
 - A program of research must be "high quality" to be supported.
 - Genuine Research problems must be addressed. Make it very clear that there is a "critical need" to address the problem.
-- ** Originality and Innovation**. To what extent does the proposal suggest and explore novel or potentially transformative concepts and lines of inquiry?
+- **Originality and Innovation**. To what extent does the proposal suggest and explore novel or potentially transformative concepts and lines of inquiry?
  (So in my case, making it clear that there is a critical need to understand what causes genetic & environmental effects background effects, and whether it is a heterogenous collection of genetic effects, or are there systematic effects. Also Testing my model to explain genetic background effects.
  
 - **Significance of expected contributions**. 
--- What is the likely impact on future research? (Advancing knowledge? Influence of direction of thought and activity?).
--- What is the potential for notable advancement/innovation in the discipline?
--- Will the results be appropriate for open dissemination?
+  - What is the likely impact on future research? (Advancing knowledge? Influence of direction of thought and activity?).
+  - What is the potential for notable advancement/innovation in the discipline?
+  - Will the results be appropriate for open dissemination?
 
 - **Clarity and Scope of objectives**. A "vision" should be of greater breadth and scope than simply plans and objectives. Clearly defined objectives (both long and short term) demonstrate "a more thought out" research plan than do simply stated objectives.
--- Are there long and short term goals?
--- Is the relationship between long and short term goals clear?
--- Are the objectives specific, focused and realistic?
--- Does the proposal articulate goals of sufficient breadth and scope in line with "high quality" research program?
+  - Are there long and short term goals?
+  - Is the relationship between long and short term goals clear?
+  - Are the objectives specific, focused and realistic?
+  - Does the proposal articulate goals of sufficient breadth and scope in line with "high quality" research program?
 
 - **Clarity and appropriateness of methodology**
--- Does the proposal clearly outline the methodology to be used?
--- Is the methodology current and appropriate?
--- Will the methodology contribute to the stated research goals?
--- Has the applicant justified the methodological approach?
+  - Does the proposal clearly outline the methodology to be used?
+  - Is the methodology current and appropriate?
+  - Will the methodology contribute to the stated research goals?
+  - Has the applicant justified the methodological approach?
 
 - **Feasability**
--- Will the applicant's expertise & proposed methodology allow objectives to be reached in the proposed time frame?
--- Does the applicant have access to the necessary equipment and resources?
--- Address need for additional expertise (or demonstrate sufficient expertise of the PI)?
--- Has application outlined recent research progress related to the proposal?
--- Is research framed with reference to other appropriate work?
+  - Will the applicant's expertise & proposed methodology allow objectives to be reached in the proposed time frame?
+  - Does the applicant have access to the necessary equipment and resources?
+  - Address need for additional expertise (or demonstrate sufficient expertise of the PI)?
+  - Has application outlined recent research progress related to the proposal?
+  - Is research framed with reference to other appropriate work?
 
 
 # Training of High Quality Personnel (HQP). (5000 characters)
@@ -180,15 +180,15 @@ Dean of graduate studies. Programs
 - How appropriate is the proposed training plan for a particular trainee? i.e. is the project suitable for an UG? PhD Student? Post-Doc?
 - For technicians, explain how the work will contribute to the development of new skills.
 - Can I mentor X number of trainees (do I have the capacity). Show That I have trained a large group before.
--- Describe over-arching training philosophy.
--- Training methods (group meetings, 1-1 meetings, journal clubs).
--- Opportunities for students (writing, presenting at conferences, collaborating..). 
+  - Describe over-arching training philosophy.
+  - Training methods (group meetings, 1-1 meetings, journal clubs).
+  - Opportunities for students (writing, presenting at conferences, collaborating..). 
 
 ## Past Contributions to HQP Training (2500 characters).
 Contributions to training HQP over the past 6 years. 
 - Discuss most important contributions to training (aggregate data on particular groups).
 - Training in important or challenging areas (computational statistical methods, multivariate stats, genomics).
--- For co-supervised students, describe role.
+  - For co-supervised students, describe role.
 - This includes everything from UG projects, Technician training, PhD Students and Post-Docs.
 
 From TM - Since my lab is still relatively young, I can absolutely talk (in addition to Grad students and post-docs) about the training of undergraduates, and where they have gone on to. Provide **specific** examples of the training of HQP in all cases.
@@ -197,12 +197,12 @@ Go into details. i.e. for SC I could write something like:
 "One PhD student who has finished, several post-docs in good jobs.  SC has these papers, has given talks at the fly meeting (where only 10% of presentations are invited to give talks). Got press about the papers..."
 ## Assessment of "Past Contributions to HQP Training"
 - What was the quality and impact of past contributions to the training of HQP in the past 6 years.
--- It is not solely assessed by number of trainees, but by quality and impact.
--- Did I provide details on my role as a co-supervisor?
--- Length of time for completion for students.
--- Did the training lead to high quality contributions to knowledge? Publications? Conferences? 
--- Where have these past HQP moved onto for their careers.
--- Science outreach activities are to be recognized as a valuable contribution to research and training.
+  - It is not solely assessed by number of trainees, but by quality and impact.
+  - Did I provide details on my role as a co-supervisor?
+  - Length of time for completion for students.
+  - Did the training lead to high quality contributions to knowledge? Publications? Conferences? 
+  - Where have these past HQP moved onto for their careers.
+  - Science outreach activities are to be recognized as a valuable contribution to research and training.
 
 # Budget Justification (2 pages)
 Using headings below provide detailed explanation and justification for each budget item in the proposed expenditures.
