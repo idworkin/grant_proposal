@@ -57,17 +57,17 @@ Up to 5 from the past 6 years (i.e. to 2009). Contributions made more than 6 yea
 ### Assessment of "Significant Contributions to Research"
 The evaluation committee considers the following elements.
 - Knowledge, expertise and experience of the researcher in the field.
--- This includes "stature" in the field. i.e. awards and prizes recieved. Invitations to give lectures, write review articles, chair conference sessions, memberships on committees, editorial boards, advisory boards. Involvment with public outreach (radio, News articles).
+  - This includes "stature" in the field. i.e. awards and prizes recieved. Invitations to give lectures, write review articles, chair conference sessions, memberships on committees, editorial boards, advisory boards. Involvment with public outreach (radio, News articles).
 
 - Quality of contributions in terms of impact on research community.
--- Accomplishments based on "quality" of recent contributions and overall "level" of impact to research. This includes papers, conference presentations.
--- It is my job to convince those reviewing the proposal that these contributions are significant and subtantial.
--- This is probably a good place to focus on not how often papers have been cited, but that the studies have been "singled out" in some important way.
--- Since many papers are collaborative (either with students or external collaborators) the contribution that "I made" in this needs to be made clear.
--- I need to make it clear what the direct (and tangible) impact was. Was it an intellectual contribution? A contribution to statistical modeling? Code?
+  - Accomplishments based on "quality" of recent contributions and overall "level" of impact to research. This includes papers, conference presentations.
+  - It is my job to convince those reviewing the proposal that these contributions are significant and subtantial.
+  - This is probably a good place to focus on not how often papers have been cited, but that the studies have been "singled out" in some important way.
+  - Since many papers are collaborative (either with students or external collaborators) the contribution that "I made" in this needs to be made clear.
+  - I need to make it clear what the direct (and tangible) impact was. Was it an intellectual contribution? A contribution to statistical modeling? Code?
 
 - Importance of contributions to, and use by, other researchers (end users).
--- To what extent has this contribution advanced the field? Has it created a significant change in thought within the research area? 
+  - To what extent has this contribution advanced the field? Has it created a significant change in thought within the research area? 
 
 Include NESCent workshops invited to, symposia invited to, seminars. Being asked to serve on the executive committee for PanAmSEDB...
 
