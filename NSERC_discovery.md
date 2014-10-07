@@ -1,6 +1,13 @@
 Overview of advice for NSERC Discovery Proposal 
 ===============================================
 
+## Some links
+[Link to materials on NSERC site](http://www.nserc-crsng.gc.ca/ResearchPortal-PortailDeRecherche/Instructions-Instructions/DG-SD_eng.asp)
+
+[Also see chapter 6 of the NSERC peer review manual](http://www.nserc-crsng.gc.ca/_doc/Reviewers-Examinateurs/CompleteManual-ManualEvalComplet_eng.pdf)
+
+[Discovery Grant information portal](http://www.nserc-crsng.gc.ca/Professors-Professeurs/DGIC-CISD_eng.asp)
+
 These are my general notes, from a combination of the McMaster Guide, the NSERC online meeting I attended and discussions with TM who served on the panel I am applying to.
 
 ## Overall Presentation tips
