@@ -18,7 +18,7 @@ Explain the proposal in a language that an informed general public can understan
 - 5 year budget
 - seperate budget justification
 
-# Relationship to other research support (how many characters?).
+# Relationship to other research support (10,000 characters).
 It is very important to make clear that you have secured other funding, both in the past, present and future. I have heard from numerous investigators that "they like to fund researchers who already have an established track record of funding".
 
 However for other funding you are applying for concurrently or in the near future, you need to make it clear how it complements, **but does not overlap* with the proposed program grant that you are applying for for your NSERC discovery grant. So for each source of support make sure to explain:
